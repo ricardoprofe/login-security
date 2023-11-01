@@ -1,0 +1,47 @@
+
+h1, p {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+table {
+    width: 50%;
+    margin:auto;
+}
+
+th, td {
+    padding: 5px;
+}
+
+th {
+    background-color: lightyellow;
+    height: 2em;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid;
+}
+
+input {
+    margin: 5px;
+}
+
+label {
+    display: block;
+}
+
+nav {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
